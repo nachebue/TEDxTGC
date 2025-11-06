@@ -30,10 +30,10 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[your-username]/tedxtheglobalcollegeyouth.git
+git clone https://github.com/nachebue/TEDxTGC.git
 
 # 2. Navigate to the project directory
-cd tedxtheglobalcollegeyouth
+cd TEDxTGC
 
 # 3. Install dependencies
 npm install
